@@ -1,0 +1,18 @@
+{
+  "uuid": "E38D7B7B-B42E-47AD-AFF5-5B5670D0625B",
+  "shortName": "Composite Animations Example",
+  "longName": "Composite Animations Example",
+  "companyName": "Pebble",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
